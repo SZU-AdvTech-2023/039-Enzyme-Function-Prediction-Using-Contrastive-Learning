@@ -1,0 +1,9 @@
+@article{REPO039,
+    author = "Yu, Tianhao and Cui, Haiyang and Li, Jianan Canal and Luo, Yunan and Jiang, Guangde and Zhao, Huimin",
+    journal = "Science",
+    number = "6639",
+    pages = "1358--1363",
+    title = "{Enzyme Function Prediction Using Contrastive Learning}",
+    volume = "379",
+    year = "2023"
+}
